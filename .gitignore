@@ -1,0 +1,9 @@
+*.pdf
+*.csv
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.bitmap
+.DS_Store
+.ipynb_checkpoints/
