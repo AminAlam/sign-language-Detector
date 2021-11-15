@@ -24,13 +24,13 @@ I have augmented the training set using rotation and a random black box on the i
 
 | Image Type  | Representaion|
 | ------------- |-------------|
-| Original Image  | ![image 1](http://ee.sharif.edu/~amin/static/Deep/sample.png)|
-| Rotated Image  | ![image 2](http://ee.sharif.edu/~amin/static/Deep/rotated_sample.png)|
-| Rotated and Cropped image  | ![image 3](http://ee.sharif.edu/~amin/static/Deep/croped_sample.png)|
+| Original Image  | ![image 11](http://ee.sharif.edu/~amin/static/Deep/F_sample.png)|
+| Rotated Image  | ![image 22](http://ee.sharif.edu/~amin/static/Deep/F_rotated_sample.png)|
+| Rotated and Cropped image  | ![image 23](http://ee.sharif.edu/~amin/static/Deep/F_croped_sample.png)|
 
 
 
 ### Some Test Images
-| ![image 1](http://ee.sharif.edu/~amin/static/Deep/Deep_01.png)  | ![image 2](http://ee.sharif.edu/~amin/static/Deep/Deep_02.png)|
+| ![image 1](http://ee.sharif.edu/~amin/static/Deep/F_Deep_01.png)  | ![image 2](http://ee.sharif.edu/~amin/static/Deep/F_Deep_02.png)|
 | ------------- |-------------|
-| ![image 3](http://ee.sharif.edu/~amin/static/Deep/Deep_03.png)  | ![image 4](http://ee.sharif.edu/~amin/static/Deep/Deep_04.png)|
+| ![image 3](http://ee.sharif.edu/~amin/static/Deep/F_Deep_03.png)  | ![image 4](http://ee.sharif.edu/~amin/static/Deep/F_Deep_04.png)|
