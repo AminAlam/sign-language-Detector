@@ -1,0 +1,2 @@
+model_checkpoint_path: "./Sign_Detector_89pAcc"
+all_model_checkpoint_paths: "./Sign_Detector_89pAcc"
