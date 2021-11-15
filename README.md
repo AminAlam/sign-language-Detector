@@ -1,4 +1,4 @@
-# sign-language-Detector
+# Sign-Language-Detector
 
 ### What is this?
 This is a ML model which can detect sing language from hand gestures(real time detection). This model has been made by tensoeflow and is trained by 30000 images. It was one of the home works of SUT Deep Learning course.
