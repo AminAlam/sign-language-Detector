@@ -6,8 +6,8 @@ import numpy as np
 
 sess = tf.Session()
 
-new_saver = tf.train.import_meta_graph('88P_ExtendedDataset/Sign_Detector_88pAcc.meta')
-new_saver.restore(sess, tf.train.latest_checkpoint('./88P_ExtendedDataset/'))
+new_saver = tf.train.import_meta_graph('89P_ExtendedDataset/Sign_Detector_89pAcc.meta')
+new_saver.restore(sess, tf.train.latest_checkpoint('./89P_ExtendedDataset/'))
 
 alphabets =  'ABCDEFGHIKLMNOPQRSTUVWXY'
 
