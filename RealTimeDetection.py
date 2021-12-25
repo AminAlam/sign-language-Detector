@@ -29,7 +29,7 @@ while(1):
         ROI_small_flat = cv2.resize(ROI_gray, (28*28,1))
         ROI = np.array(ROI_small_flat, dtype=np.float32)
         display = cv2.rectangle(frame.copy(),(200,100),(500,400),(0,255,0),2)
-        label = sess.run('Y_PRED_CLS:0', feed_dict={'X_INPUT:0':ROI})
+        label = sess.run('Y_PRED_CLS:0', feed_dict={'X_INPUT:0':ROI/255})
         word = alphabets[int(label)]
         cv2.putText(display, word, (200, 390), cv2.FONT_HERSHEY_SIMPLEX, 0.9, (100,180,12), 2)
         cv2.imshow('curFrame',display)
